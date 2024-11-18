@@ -15,7 +15,7 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "True",
-"MessageID": "9295527835",
+"MessageID": "54698138725",
 "ShowTime": "3",
 "Button": "عضویت فوری",
 "ButtonCancell": " نمیخوام ",
